@@ -50,6 +50,29 @@ I applied Non-Negative Matrix Factorization (NMF) to process the car reviews. Th
 
 <img width="987" alt="Screenshot 2023-08-03 at 11 48 44 AM" src="https://github.com/Mahmoudh22/Car_Price_Prediction/assets/131708611/544986e6-bef0-4658-bc8d-95cc69b43cfe">
 we can see words such as:
+Driving Experience:
+
+buy, good, love, reliable fall under driving experience.
+Of course we want reliable lovely cars!
+Dealership Experiences:
+
+pay, fix, pointless fall under dealership experiences.
+Well, who wants to deal with a pointless dealer?
+Car Performance and Issues:
+
+fluid, engine, leak, transmission, shutting fall under car performance and issues.
+Want to go to the mechanic every day?
+Experience Section:
+
+struggle, awesome, design, all fall under the experience section.
+Let's buy a struggling car! (Just joking, DON'T!)
+Maintenance + Repair:
+
+coil, service, engine, repair all fall under maintenance + repair.
+Essential aspects to keep our cars in great shape.
+
+
+
 - buy, good, love, reliable fall under driving experience; Of course we want reliable lovely cars!
 - pay, fix, pointless under dealership experiences; Well, who wants to deal with a pointless dealer?
 - fluid, engine, leak, transmission, shutting under car performance and issues; Want to go to the mechanic everyday? 
